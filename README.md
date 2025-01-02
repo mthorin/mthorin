@@ -4,7 +4,7 @@
 
 🚀 I’m passionate about building .
 
-📫 Reach me at matthewthorin5@gmail.com or connect with me on ![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge)](https://www.linkedin.com/in/matthew-thorin/)
+📫 Reach me at matthewthorin5@gmail.com or connect with me on [![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge)](https://www.linkedin.com/in/matthew-thorin/)
 
 <!--
 **mthorin/mthorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
