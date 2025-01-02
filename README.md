@@ -4,7 +4,7 @@
 
 🚀 I’m passionate about building deep learning and reinforcement learning systems to tackle complex challenges, pushing the boundaries of innovation and uncovering solutions to intricate problems.
 
-📫 Reach me at matthewthorin5@gmail.com or connect with me on [![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge)](https://www.linkedin.com/in/matthew-thorin/)
+📫 Reach me at matthewthorin5@gmail.com or connect with me on LinkedIn.
 
 <!--
 **mthorin/mthorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
