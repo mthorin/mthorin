@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m currently learning .
+🌱 I’m currently learning deep learning frameworks such as PyTorch, alongside front-end development tools like React and TypeScript, to enhance my ability to build innovative and robust solutions.
 
-🚀 I’m passionate about building .
+🚀 I’m passionate about building deep learning and reinforcement learning systems to tackle complex challenges, pushing the boundaries of innovation and uncovering solutions to intricate problems.
 
 📫 Reach me at matthewthorin5@gmail.com or connect with me on [![linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge)](https://www.linkedin.com/in/matthew-thorin/)
 
